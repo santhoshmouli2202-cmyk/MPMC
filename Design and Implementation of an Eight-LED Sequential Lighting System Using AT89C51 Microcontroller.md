@@ -58,11 +58,11 @@ LED Anode → +5V through 330 Ω resistor, LED Cathode → P2.0 (active LOW) or 
 Initialize → LED ON → Delay → LED OFF → Delay → Repeat
 
 # Output Image from Proteus
-<img width="1920" height="1080" alt="Screenshot 2026-10-29 100959" src="https://github.com/user-attachments/assets/e3be2fbe-fd39-475b-92bb-f236a4f8890a" />
+<img width="1920" height="1080" alt="{D88A4ED4-B122-47B6-A3E0-28761F1F99D8}" src="https://github.com/user-attachments/assets/487bfc3a-9108-434e-85d6-ba2a7fd599b1" />
 
 # Output Image from Keil µVision
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 192255" src="https://github.com/user-attachments/assets/dd0710ff-bbf6-46b4-b15d-80855394fd1b" />
 
+<img width="1920" height="1080" alt="{B1F368DA-B97F-4857-9B8C-F1BC44FBA5EE}" src="https://github.com/user-attachments/assets/ff7bc8a1-c12b-4b7e-a349-1a4a4c8953e7" />
 
 # Observation
 The LED connected to Port 2 blinks continuously.
