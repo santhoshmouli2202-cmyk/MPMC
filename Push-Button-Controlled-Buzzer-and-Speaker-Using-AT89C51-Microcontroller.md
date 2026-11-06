@@ -140,6 +140,14 @@ void main(void)
 - Vehicle alert systems
 - Patient assistance systems
 
+## Output image from proteus
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-06 103058" src="https://github.com/user-attachments/assets/4d3c677a-77af-4a67-8606-1e9bb2af4500" />
+
+## Output image from Keil µVision
+
+<img width="1920" height="1080" alt="{6BCBFF89-9B63-4DC0-A17C-042A0A8F32C6}" src="https://github.com/user-attachments/assets/e91c3739-ffe0-4cd7-9317-65f72dbcc929" />
+
 ## Result
 
 The push button was successfully interfaced with the AT89C51 microcontroller. The buzzer and speaker were activated when the push button was pressed and switched OFF when the button was released.
