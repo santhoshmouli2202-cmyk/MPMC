@@ -35,8 +35,7 @@ END
 ```
 
 ## OUTPUT
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/793b78bc-1e8d-439e-867e-cc298d2bf7fe" />
-
+<img width="1920" height="1080" alt="{DF24FE08-4758-4FA9-8162-D81E7CCFB62E}" src="https://github.com/user-attachments/assets/6add9139-c256-4f5e-bb10-d8c4e945c686" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
