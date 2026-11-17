@@ -50,7 +50,8 @@ END
 ```
 ## OUTPUT
 
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/ec91b6d6-7832-4346-bb24-ce685165e6b0" />
+<img width="1920" height="1080" alt="{D0212B36-4A23-4CDB-BBE3-B5DD2B536D5B}" src="https://github.com/user-attachments/assets/4589bf1e-77a1-4de4-8b48-560540b28a7c" />
+
 
 
 ---
